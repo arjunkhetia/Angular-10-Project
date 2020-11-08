@@ -1,4 +1,4 @@
-# Angular Project - 10.0.3
+# Angular Project - 10.2.2
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.2.
 
